@@ -1,0 +1,8 @@
+.team__input {
+    display: flex;
+}
+
+.team__para {
+    padding: 5px;
+    padding-top: 10px;
+}

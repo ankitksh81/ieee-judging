@@ -1,0 +1,42 @@
+.phases__container {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    padding: 10px;
+    background-color: white;
+}
+
+.phases__heading {
+    margin-top: 50px;
+    margin-left: 2%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 26px;
+    font-weight: 400;
+    background-color: white;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    background-color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.jury__detail {
+    margin-top: 20px;
+    margin-left: 2%;
+    font-size: 18px;
+    padding: 10px;
+}

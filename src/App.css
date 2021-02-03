@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+*, body, html, #root {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#root {
+    height: 100%;
+}
